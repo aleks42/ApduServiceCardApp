@@ -94,12 +94,6 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ApduServiceCardApp\ApduServiceCardApp.csproj">
-      <Project>{811982F5-5D6B-4E91-97BA-EB46F22A46E0}</Project>
-      <Name>ApduServiceCardApp</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <AndroidResource Include="Resources\xml\aid_list.xml" />
   </ItemGroup>
   <ItemGroup>

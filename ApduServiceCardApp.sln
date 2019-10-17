@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApduServiceCardApp.Android", "ApduServiceCardApp.Android\ApduServiceCardApp.Android.csproj", "{BCCA676E-1BCF-4F24-A51D-CC810F67F90A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApduServiceCardApp", "ApduServiceCardApp\ApduServiceCardApp.csproj", "{907B44F1-6950-40EE-B10C-C4F73312C453}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +17,6 @@ Global
 		{BCCA676E-1BCF-4F24-A51D-CC810F67F90A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCCA676E-1BCF-4F24-A51D-CC810F67F90A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BCCA676E-1BCF-4F24-A51D-CC810F67F90A}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{907B44F1-6950-40EE-B10C-C4F73312C453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{907B44F1-6950-40EE-B10C-C4F73312C453}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{907B44F1-6950-40EE-B10C-C4F73312C453}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{907B44F1-6950-40EE-B10C-C4F73312C453}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{907B44F1-6950-40EE-B10C-C4F73312C453}.Release|Any CPU.Build.0 = Release|Any CPU
-		{907B44F1-6950-40EE-B10C-C4F73312C453}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
